@@ -356,7 +356,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-base/nanmskmin`][@stdlib/stats/base/nanmskmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a strided array according to a mask, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/smskmin`][@stdlib/stats/strided/smskmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a single-precision floating-point strided array according to a mask.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/snanmin`][@stdlib/stats/strided/snanmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a single-precision floating-point strided array, ignoring NaN values.</span>
--   <span class="package-name">[`@stdlib/stats-base/snanmskmax`][@stdlib/stats/base/snanmskmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a single-precision floating-point strided array according to a mask, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/snanmskmax`][@stdlib/stats/strided/snanmskmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a single-precision floating-point strided array according to a mask, ignoring NaN values.</span>
 
 </section>
 
@@ -450,7 +450,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/snanmin]: https://github.com/stdlib-js/stats-strided-snanmin
 
-[@stdlib/stats/base/snanmskmax]: https://github.com/stdlib-js/stats-base-snanmskmax
+[@stdlib/stats/strided/snanmskmax]: https://github.com/stdlib-js/stats-strided-snanmskmax
 
 <!-- </related-links> -->
 
